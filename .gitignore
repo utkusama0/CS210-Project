@@ -1,0 +1,28 @@
+# Python Files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# Data Files
+data/raw_data.json
+data/processed_data.csv
+
+# Logs
+logs/
+*.log
+
+# Jupyter Notebook Checkpoints
+*.ipynb_checkpoints
+
+# Secrets
+.env
+api_keys.json
+
+# IDE and OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
