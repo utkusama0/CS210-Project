@@ -29,9 +29,9 @@ This analysis will reflect how my media consumption habits have evolved over tim
 ## Project Plan
 
 ### 1. Data Preparation
-- Clean and preprocess the YouTube JSON file (`izleme geçmişi.json`).
+- Clean and preprocess the YouTube JSON file (`izleme_gecmisi.json`).
 - Extract relevant fields such as timestamps, video titles, and channels.
-- Convert timestamps into usable formats (e.g., hours, weekdays, months).
+- Convert timestamps into usable formats (e.g. weekdays, months).
 
 ### 2. Analysis
 #### Temporal Trends:
