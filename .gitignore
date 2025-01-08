@@ -26,3 +26,5 @@ api_keys.json
 .idea/
 .DS_Store
 Thumbs.db
+
+.codegpt
