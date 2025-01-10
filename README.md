@@ -3,7 +3,7 @@
 
 ## Presentation
 
-[Download the PowerPoint presentation](https://github.com/your-username/your-repository/raw/main/presentation.pptx)
+[Download the PowerPoint presentation](https://github.com/utkusama0/CS210-Project/blob/main/isautku_dursunogu_30881_dsa210report.pptx)
 
 ---
 
