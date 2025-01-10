@@ -19,6 +19,7 @@ logs/
 
 # Secrets
 .env
+*.venv/
 api_keys.json
 
 # IDE and OS Files
@@ -26,5 +27,3 @@ api_keys.json
 .idea/
 .DS_Store
 Thumbs.db
-
-.codegpt
